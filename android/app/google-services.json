@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "671390511452",
+    "project_id": "car-sourcing-group",
+    "storage_bucket": "car-sourcing-group.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671390511452:android:f5f7741ca6e31c00359199",
+        "android_client_info": {
+          "package_name": "com.motorsync.carsourcinggroup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyV6J_EC4JROGH3fyP7jdRGjhLpWAHSN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
