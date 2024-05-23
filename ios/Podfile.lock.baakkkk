@@ -8,7 +8,7 @@ PODS:
   - FBAudienceNetwork (6.12.0)
   - Firebase/CoreOnly (10.10.0):
     - FirebaseCore (= 10.10.0)
-  - Firebase/InAppMessaging (10.10.0):
+  - Firebase/InAppMessaging (10.25.0):
     - Firebase/CoreOnly
     - FirebaseInAppMessaging (~> 10.10.0-beta)
   - Firebase/Messaging (10.10.0):
