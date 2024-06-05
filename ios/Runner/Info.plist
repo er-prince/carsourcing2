@@ -59,6 +59,8 @@
 	<string>Car Sourcing Group requires access to the local network</string>
 	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
 	<string>Car Sourcing Grouprequires address permission access to get the current location of the user.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Car Sourcing Group requires address permission access to get the current location of the user.</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Car Sourcing Group requires address permission access to get the current location of the user.</string>
 	<key>NSMicrophoneUsageDescription</key>
